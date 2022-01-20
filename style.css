@@ -1,0 +1,14 @@
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge; 
+}
+body{
+padding: 20px;
+background-image:url("background.jpg");
+}
+#clear_button{
+background-color: yellow;
+color: red;
+}
